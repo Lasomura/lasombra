@@ -56,3 +56,30 @@
 >Цитата
 >Много строк
 > > Не мы такие, жизнь такая
+
+Код
+---
+```markdown
+print("Hello") Python
+```
+
+
+```python
+c = a+b
+print(f"{c} = {a} + {a} + {b}")
+
+Таблицы
+-------
+
+| Name | Age | City |
+|-----:|:---:| :----|
+|SS    | 34  | MOd  |
+|SS    | 34  | MOd  |
+|SS    | 34  | MOd  |
+|SS    | 34  | MOd  |
+|SS    | 34  | MOd  |
+|SS    | 34  | MOd  |
+|SS    | 34  | MOd  |
+|SS    | 34  | MOd  |
+|SS    | 34  | MOd  |
+|SS    | 34  | MOd  |
