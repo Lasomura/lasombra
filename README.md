@@ -1,4 +1,3 @@
-<img width="240" height="320" alt="i" src="https://github.com/user-attachments/assets/135b0080-1747-4ad0-9d34-23e09f1fa2b0" />
 # Заговолок 1
 ## Заговолок 2
 ### Заговолок 3
@@ -16,3 +15,6 @@
 ~~Зачеркнутый~~
 
 `моноширный`
+
+<img width="240" height="320" alt="i" src="https://github.com/user-attachments/assets/ce4401ce-b5eb-40b8-a77b-dc79af00c541" />
+
