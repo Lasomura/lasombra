@@ -67,6 +67,7 @@ print("Hello") Python
 ```python
 c = a+b
 print(f"{c} = {a} + {a} + {b}")
+```
 
 Таблицы
 -------
