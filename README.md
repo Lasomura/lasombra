@@ -40,8 +40,11 @@
 - [ ] 3
 
 [текст ссылки](https://example.com)
+
 [С подсказкой](https://example.com "При наведении")
+
 <https://auto-link.com> 
 
 [Ссылочный стиль][1]
+
 [1]:https://example.com
